@@ -237,4 +237,4 @@ This repository serves as the official landing page for Microsoft Lync Server. T
 **Get the most recent version of Microsoft Lync Server today!**
 
 ---
-**Last updated:** 2026-10-08 20:19:54 UTC
+**Last updated:** 2026-10-09 00:47:55 UTC
